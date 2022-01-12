@@ -1,0 +1,16 @@
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\bin\Debug\netcoreapp1.1\SearchTest.deps.json
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\bin\Debug\netcoreapp1.1\SearchTest.runtimeconfig.json
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\bin\Debug\netcoreapp1.1\SearchTest.runtimeconfig.dev.json
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\bin\Debug\netcoreapp1.1\SearchTest.dll
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\bin\Debug\netcoreapp1.1\SearchTest.pdb
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\bin\Debug\netcoreapp1.1\CitySearch.dll
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\bin\Debug\netcoreapp1.1\CitySearch.pdb
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\obj\Debug\netcoreapp1.1\SearchTest.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\obj\Debug\netcoreapp1.1\SearchTest.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\obj\Debug\netcoreapp1.1\SearchTest.AssemblyInfo.cs
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\obj\Debug\netcoreapp1.1\SearchTest.csproj.CopyComplete
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\obj\Debug\netcoreapp1.1\SearchTest.dll
+C:\Users\hamza\source\repos\ConsoleApp1\XUnitTestProject1\obj\Debug\netcoreapp1.1\SearchTest.pdb

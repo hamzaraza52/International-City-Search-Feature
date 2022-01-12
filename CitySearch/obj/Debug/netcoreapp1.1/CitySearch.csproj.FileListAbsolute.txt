@@ -1,0 +1,10 @@
+C:\Users\hamza\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\CitySearch.deps.json
+C:\Users\hamza\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\CitySearch.runtimeconfig.json
+C:\Users\hamza\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\CitySearch.runtimeconfig.dev.json
+C:\Users\hamza\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\CitySearch.dll
+C:\Users\hamza\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp1.1\CitySearch.pdb
+C:\Users\hamza\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\CitySearch.csprojAssemblyReference.cache
+C:\Users\hamza\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\CitySearch.csproj.CoreCompileInputs.cache
+C:\Users\hamza\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\CitySearch.AssemblyInfo.cs
+C:\Users\hamza\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\CitySearch.dll
+C:\Users\hamza\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp1.1\CitySearch.pdb
